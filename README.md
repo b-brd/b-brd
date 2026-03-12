@@ -56,7 +56,7 @@ Website
 https://bramberden.com  
 
 LinkedIn  
-https://linkedin.com/in/bram-berden  
+https://linkedin.com/in/bramberden  
 
 Contact  
 hello@bramberden.com
