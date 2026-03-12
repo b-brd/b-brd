@@ -73,9 +73,3 @@ Beyond engineering I am interested in:
 - entrepreneurship
 - the future of intelligent machines
 - philosophy
-
----
-
-## License
-
-Unless stated otherwise, repositories on this profile are released under the MIT License.
