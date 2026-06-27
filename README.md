@@ -2,7 +2,7 @@
 
 AI/ML • Systems Engineering  
 
-IT Automation Engineer @ [Berden](https://berden.nl)  
+AI & Digitalisation Lead @ [Berden](https://berden.nl)  
 Co-founder @ Bridyon  
 
 BSc Informatics (Data Science & AI) — Fontys University of Applied Sciences
