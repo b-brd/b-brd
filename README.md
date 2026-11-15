@@ -102,4 +102,4 @@ Most of this lives in private company repositories. What I can share ends up her
 
 [bramberden.com](https://bramberden.com) · [LinkedIn](https://www.linkedin.com/in/bramberden/) · hello@bramberden.com
 
-From February 2027 I'm looking for a 20-week internship.
+From February 2027 I'm looking for an internship of 5 to 6 months.
