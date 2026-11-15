@@ -68,7 +68,35 @@ Most of this lives in private company repositories. What I can share ends up her
 
 ## Tools I use most
 
-Python · TypeScript · C · SQL · PyTorch · Keras · scikit-learn · LightGBM · Claude, OpenAI and Gemini APIs · Microsoft 365 and Azure · Docker · Linux · Cloudflare
+<p>
+<sub>Languages</sub><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
+</p>
+<p>
+<sub>Machine learning</sub><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/LightGBM-2E6B45?style=flat-square" alt="LightGBM">
+</p>
+<p>
+<sub>Language models</sub><br>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+<img src="https://img.shields.io/badge/MCP-1C1B19?style=flat-square" alt="MCP">
+</p>
+<p>
+<sub>Platforms</sub><br>
+<img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat-square" alt="Microsoft 365">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+</p>
 
 ## Elsewhere
 
