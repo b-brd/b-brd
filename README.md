@@ -9,12 +9,45 @@ The question I keep coming back to is how companies can get the most out of AI. 
 
 ## What I've been working on
 
-| Question | Answer |
-| --- | --- |
-| **Who pays when something breaks in a rented building?** | An agent that reads the maintenance ticket, checks the lease and the Dutch rules on small repairs, finds a supplier and books the cost. |
-| **How do you let a language model use a company's core system without letting it touch the books?** | An MCP server that turns 203 API operations into 30 tools, logs every call and keeps writes to the ledger off by default. |
-| **Can IT for 550 people change only through pull requests?** | Microsoft 365 and the firewall as code, tested with Maester before anything goes live. |
-| **Does a four in a row turn up before a five?** | A Monte Carlo [simulation](https://github.com/b-brd/grid-simulation) that plays millions of games on a 12 × 12 grid. It runs live on [bramberden.com](https://bramberden.com). |
+<details>
+<summary><b>Who pays when something breaks in a rented building?</b></summary>
+<br>
+
+An agent that reads the maintenance ticket, checks the lease and the Dutch rules on small repairs, finds a supplier and books the cost.
+
+<sub>Entelech, 2026</sub>
+
+</details>
+
+<details>
+<summary><b>How do you let a language model use a company's core system without letting it touch the books?</b></summary>
+<br>
+
+An MCP server that turns 203 API operations into 30 tools, logs every call and keeps writes to the ledger off by default.
+
+<sub>Entelech, 2026</sub>
+
+</details>
+
+<details>
+<summary><b>Can IT for 550 people change only through pull requests?</b></summary>
+<br>
+
+Microsoft 365 and the firewall as code, tested with Maester before anything goes live.
+
+<sub>Berden, 2026</sub>
+
+</details>
+
+<details>
+<summary><b>Does a four in a row turn up before a five?</b></summary>
+<br>
+
+A Monte Carlo [simulation](https://github.com/b-brd/grid-simulation) that plays millions of games on a 12 × 12 grid. It runs live on [bramberden.com](https://bramberden.com).
+
+<sub>Lab, 2026</sub>
+
+</details>
 
 Most of this lives in private company repositories. What I can share ends up here and in the [lab](https://bramberden.com/lab).
 
